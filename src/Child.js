@@ -16,7 +16,7 @@ export class Child extends React.Component {
     render() {
         const styles =
         {
-            'backgroundColor':'red'
+            'backgroundColor':'green'
         }
         
       return (
