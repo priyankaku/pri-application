@@ -31,7 +31,7 @@ export class Child extends React.Component {
             </option>
   
             <option value="Gromulus">
-              Gromulus
+              Anushka
             </option>
   
             <option value="Thinkpiece">
