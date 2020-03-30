@@ -34,8 +34,8 @@ export class Child extends React.Component {
               Anushka
             </option>
   
-            <option value="Thinkpiece">
-              Thinkpiece
+            <option value="Swetha">
+              Swetha
             </option>
           </select>
         </div>
